@@ -1,0 +1,13 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task1": "node src/task1/index.js",
+    "task2": "node src/task2/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
